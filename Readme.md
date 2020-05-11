@@ -17,7 +17,7 @@ A framework for launching new Django Rest Framework projects quickly. Comes with
 2.  Clone the repo and configure the virtual environment:
 
 ```
-$ git clone https://github.com/wsvincent/drfx.git
+$ git clone https://github.com/wsvincent/drfconfig.git
 $ cd drfx
 $ pipenv install
 $ pipenv shell
@@ -46,3 +46,5 @@ Login with your superuser account. Then navigate to all users. Logout. Sign up f
 Want to learn more about Django REST Framework? I've written an entire book that takes a project-based approach to building web APIs with Django. The first 2 chapters are available for free online at [https://djangoforapis.com/](https://djangoforapis.com/).
 
 [![Django for APIs](https://learndjango.com/static/images/books/dfa_cover_30.jpg)](https://djangoforapis.com)
+
+> CREATE SCHEMA `commerce` DEFAULT CHARACTER SET utf8mb4 ;
